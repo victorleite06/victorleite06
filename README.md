@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorleite06&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ## Linguagens usadas 
+  ## Linguagens e frameworks usadas 
   </div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
