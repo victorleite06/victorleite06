@@ -1,6 +1,6 @@
 ## Hello everybody eu sou o Victor Leite de Andrade
 
-- 📖 Atualmente estou desenvolvendo projetos próprios e trabalhando na GrupoSFA
+- 📖 Atualmente estou desenvolvendo projetos do meu trabalho no GrupoSFA
 - 🎮 Meus hobbies são ler, jogar e ver animes
 
 
