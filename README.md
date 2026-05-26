@@ -4,9 +4,8 @@
 
 ### Desenvolvedor Full Stack Pleno · Java · Spring Boot · Angular
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leite-deandrade-5b7083192)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leite-de-andrade-5b7083192)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.leite2001@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/victor_leite_)
 [![Location](https://img.shields.io/badge/Belo_Horizonte,_MG-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
