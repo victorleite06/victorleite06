@@ -1,49 +1,284 @@
-## Hello everybody eu sou o Victor Leite de Andrade
+<div align="center">
 
-- 📖 Atualmente estou desenvolvendo projetos do meu trabalho no GrupoSFA
-- 🎮 Meus hobbies são ler, jogar e ver animes
+# Victor Leite de Andrade
 
+### Desenvolvedor Full Stack Pleno · Java · Spring Boot · Angular
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leite-deandrade-5b7083192)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.leite2001@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/victor_leite_)
+[![Location](https://img.shields.io/badge/Belo_Horizonte,_MG-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Full Stack com **mais de 3 anos de experiência** em Java e Angular, construindo toda a trajetória dentro da mesma empresa — de **Jovem Aprendiz até Pleno**. Atuo com domínio completo da stack: desde SPAs responsivas em Angular/TypeScript até back-ends robustos com Spring Boot, processamento assíncrono com Kafka e integrações com ERP TOTVS RM.
+
+Foco em **clean code**, **SOLID**, **arquitetura de microsserviços** e soluções que entregam valor de ponta a ponta. Mentoreio juniores e tenho visão sistêmica que une front-end, back-end e infra em decisões de arquitetura.
+
+---
+
+## 🚀 Stack principal
+
+### Back-end
+![Java](https://img.shields.io/badge/Java_8%2F11%2F17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+### Front-end & Desktop
+![Angular](https://img.shields.io/badge/Angular_12+-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 🌟 Projetos
+
+### 💰 finApp — Gestão Financeira Desktop
+
+> Aplicativo desktop completo de gestão financeira pessoal, combinando Angular + Electron no front com Java Spring Boot no back. Projeto full stack autoral, com CI/CD e banco embarcado.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🖥️ <a href="https://github.com/victorleite06/finApp-desktop">finApp-desktop</a></strong><br/><br/>
+      Interface desktop construída com Angular + Electron.<br/>Compila para app nativo multiplataforma.<br/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>⚙️ <a href="https://github.com/victorleite06/api-finApp">api-finApp</a></strong><br/><br/>
+      API REST em Java + Spring Boot com SQLite embutido.<br/>Pipeline CI/CD configurado via GitHub Actions.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+- 🖥️ App desktop nativo empacotado com `electron-builder` — roda sem servidor externo
+- 🔗 Angular consome a API REST Spring Boot localmente via HTTP
+- 💾 SQLite embutido — zero dependência de banco de dados externo
+- ⚙️ CI/CD com GitHub Actions no back-end
+
+---
+
+### 🔗 Ecossistema de Microsserviços: mini-crm + mini-sign
+
+> Dois microsserviços Spring Boot que se comunicam via **OpenFeign**, cobrindo o fluxo completo de proposta comercial → geração de contrato em PDF → assinatura digital. Cada serviço tem responsabilidade única, banco próprio e documentação via Swagger.
+
+```
+┌─────────────────────────────┐        OpenFeign        ┌──────────────────────────────┐
+│         mini-crm            │ ──────────────────────► │         mini-sign            │
+│  Gestão de Propostas        │                          │  Geração e Assinatura de     │
+│  Comerciais · :8080         │ ◄────────────────────── │  Contratos em PDF · :8081    │
+└─────────────────────────────┘      callback status     └──────────────────────────────┘
+         │                                                          │
+    MySQL · Swagger UI                                     MySQL · Swagger UI
+```
+
+#### 📋 [mini-crm](https://github.com/victorleite06/mini-crm) — CRM de Propostas Comerciais
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+Gerencia o ciclo de vida completo de propostas: criação, consulta de status, envio para assinatura e recebimento de callback do mini-sign.
+
+| Método | Rota | Descrição |
+|--------|------|-----------|
+| `POST` | `/api/proposta/salvar` | Cria nova proposta com cliente e itens |
+| `GET` | `/api/proposta/consultar-status/{id}` | Retorna status (`RASCUNHO`, `ASSINADO`) |
+| `GET` | `/api/proposta/enviar-proposta/{id}` | Aciona geração do contrato PDF no mini-sign |
+| `GET` | `/api/proposta/buscar-proposta/{id}` | Retorna todos os detalhes da proposta |
+| `GET` | `/api/proposta/marcar-assinada/{uuid}` | Callback: atualiza proposta para assinada |
+
+#### ✍️ [mini-sign](https://github.com/victorleite06/mini-sign) — Microserviço de Contratos
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF_Generation-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+
+Gera contratos em PDF, gerencia o status de assinatura e notifica o mini-crm após a confirmação.
+
+| Método | Rota | Descrição |
+|--------|------|-----------|
+| `POST` | `/api/contrato/enviar-assinatura` | Recebe proposta e gera PDF do contrato |
+| `GET` | `/api/contrato/assinar-contrato/{id}` | Simula assinatura e notifica o CRM |
+| `GET` | `/api/contrato/consultar-status/{id}` | Retorna status (`AGUARDANDO_ASSINATURA`, `ASSINADO`) |
+
+---
+
+### 🧵 [simulador-multithreading](https://github.com/victorleite06/simulador-multithreading) ⭐
+
+> Simulador de arquiteturas de concorrência em Java puro — threads, sincronização e processamento paralelo. Conceitos que aplico diretamente em produção com Apache Kafka.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+`Threads` `Concorrência` `Arquiteturas`
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/victorleite06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorleite06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorleite06&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ## Linguagens e frameworks usadas 
-  </div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Sp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Ag" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Ms" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-</div>
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorleite06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorleite06&layout=compact&langs_count=7&theme=dracula)
+
 </div>
 
-## Plataformas usadas
+---
 
- </div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Tl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Ub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Rafa-Wd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Rafa-Fg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+## 🏢 Trajetória profissional
+
+```
+Grupo SFA · Belo Horizonte, MG
+─────────────────────────────────────────────────────────
+Fev 2022 → Ago 2022   Jovem Aprendiz – Assistente Administrativo
+Set 2022 → Mar 2025   Estagiário – Desenvolvedor Full Stack
+Abr 2025 → Atual      Desenvolvedor Full Stack Pleno
+─────────────────────────────────────────────────────────
+```
+
+> Do zero ao Pleno dentro da mesma empresa — 3 anos de crescimento contínuo com impacto real em produção.
+
+---
+
+## 🎓 Formação
+
+- **Ciência da Computação** — UNA EaD *(7º período · Conclusão: jul/2027)*
+- **Ciência da Computação** — PUC Minas *(1º ao 6º período cursados)*
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário *(leitura técnica de documentações e APIs)*
+
+---
+
+<div align="center">
+
+*"Trajetória que começa do zero e cresce de forma consistente é a mais sólida que existe."*
+
 </div>
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🧵 [simulador-multithreading](https://github.com/victorleite06/simulador-multithreading) ⭐
+> Simulador de multithreading em Java puro, implementando diferentes arquiteturas de concorrência. Explora threads, sincronização e processamento paralelo — conceitos que aplico diariamente em produção com Apache Kafka.
+
+`Java` `Threads` `Concorrência` `Arquiteturas`
+
+---
+
+### 📐 [Aeds3](https://github.com/victorleite06/Aeds3)
+> Implementações avançadas de Algoritmos e Estruturas de Dados 3 — árvores, grafos e algoritmos de busca, desenvolvidos no curso de Ciência da Computação.
+
+`Java` `Estruturas de Dados` `Algoritmos`
+
+---
+
+### 🖥️ [AedsII](https://github.com/victorleite06/AedsII)
+> Projetos e exercícios da disciplina de Algoritmos e Estruturas de Dados 2, com foco em estruturas lineares e técnicas de ordenação.
+
+`Algoritmos` `Estruturas de Dados`
+
+---
+
+### 🌐 [CursoDesenvolvimentoWeb](https://github.com/victorleite06/CursoDesenvolvimentoWeb)
+> Estudos e projetos práticos de desenvolvimento web com HTML, CSS e JavaScript — base para a atuação com Angular no mercado.
+
+`JavaScript` `HTML` `CSS`
+
+---
+
+### 🔌 [AC1](https://github.com/victorleite06/AC1)
+> Projetos acadêmicos de Arquitetura de Computadores 1 da PUC Minas, com implementações em Verilog.
+
+`Verilog` `Arquitetura de Computadores`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorleite06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorleite06&layout=compact&langs_count=7&theme=dracula)
+
 </div>
-  
-  ##
-  
-  <div align="center"> 
-  <a href="https://instagram.com/victorleite066" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+---
+
+## 🏢 Trajetória profissional
+
+```
+Grupo SFA · Belo Horizonte, MG
+─────────────────────────────────────────────────────────
+Feb 2022 → Ago 2022   Jovem Aprendiz – Assistente Administrativo
+Set 2022 → Mar 2025   Estagiário – Desenvolvedor Full Stack
+Abr 2025 → Atual      Desenvolvedor Full Stack Pleno
+─────────────────────────────────────────────────────────
+```
+
+> Do zero ao Pleno dentro da mesma empresa — 3 anos de crescimento contínuo com impacto real em produção.
+
+---
+
+## 🎓 Formação
+
+- **Ciência da Computação** — UNA EaD *(7º período · Conclusão: jul/2027)*
+- **Ciência da Computação** — PUC Minas *(1º ao 6º período cursados)*
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário *(leitura técnica de documentações e APIs)*
+
+---
+
+<div align="center">
+
+*"Trajetória que começa do zero e cresce de forma consistente é a mais sólida que existe."*
+
+</div>
     <a href="https://www.facebook.com/victor.leite.696/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:victor.leite2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-leite-de-andrade-5b7083192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
